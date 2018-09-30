@@ -2,7 +2,7 @@
 # BASE
 # ----------------------------------------------
 rm(list=ls())
-source("./trunk/base/init.r", chdir=TRUE)
+source("./base/init.r", chdir=TRUE)
 loadPackages(c("h5"))
 # ----------------------------------------------
 
